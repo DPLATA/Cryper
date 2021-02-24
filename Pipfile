@@ -8,6 +8,9 @@ pandas = "*"
 sqlalchemy = "*"
 requests = "*"
 mysqlclient = "*"
+numpy = "*"
+plotly = "*"
+matplotlib = "*"
 
 [dev-packages]
 
